@@ -1,0 +1,40 @@
+body {
+  color: pink;
+  background-image: url(https://i.pinimg.com/736x/3a/df/d4/3adfd49c6bd6c972aebed2eaac2df608.jpg);
+
+}
+div {
+  color: pink;
+  background-image: url(https://i.pinimg.com/564x/a2/2c/fb/a22cfbc7d9d1482dc18d43f592ec2aaa.jpg);
+
+}
+.link {
+  color:  #cf8fa6;
+  text-decoration: none;
+}
+input{
+  color: #8560a0;
+  background-color: #cf8fa6;
+  border-radius: 5px;
+  border-style: dotted;
+  border-color: pink;
+}
+textarea {
+  color: pink;
+  background-color: #e6d3e6;
+border-style: dotted;
+border-width: 3px
+}
+button {
+  align-items: center;
+  background-color: pink;
+  border-radius: 10px;
+  border-color: #8560a0;
+}
+hr {
+border-color: #d48fd4;
+border-width: 3px
+}
+.c{
+  text-align: center;
+}
